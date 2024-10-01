@@ -5,4 +5,4 @@ Paste the generated command in `' '` into the `command` variable in script like 
 
     command = 'summon ... }]}'
 
-script generates txt file with name of `command_name` variable
+Script generates txt file with name of `command_name` variable, in that file you can find your edited command.
